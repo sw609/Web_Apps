@@ -1,3 +1,2 @@
 # My_First_Repository
-Just First Try Here!
-Hello, I am a student.
+Hi, my name is Shuting Wang, and I am a current student at New York University, Tandon School of Engineering, class of 2021.

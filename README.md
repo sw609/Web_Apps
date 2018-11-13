@@ -8,4 +8,12 @@ Here is one of my repositpries where I store all my Web App files and contribute
 The followings are all the web apps created by Shuting Wang
 
 1. Color Guessing Game (updated 20181112, created at 20181016)
+
+![Alt text](Color_Guessing_Game/assets/3.png)
+
+
+
 2. To-Do List App (updated 20181113, created at 2018 1112)
+
+![Alt text](To_Do_List/ProjectScreenshot.png)
+

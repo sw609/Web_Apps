@@ -1,4 +1,4 @@
-#Web App - Color Guessing Game
+# Web App - Color Guessing Game
 
 Hi, this is my first web app.
 

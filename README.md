@@ -13,13 +13,13 @@ Here is one of my repositpries where I store all my Web App files and contribute
 
 
 
-## 2. To-Do List App (updated 20181113, created at 2018 1112)
+## 2. To-Do List App (updated 20181113, created at 20181112)
 
 ![Alt text](To_Do_List/ProjectScreenshot.png)
 
 
 
-## 3. Interactive Audio Web App (updated 20181113, created at 2018 1113)
+## 3. Interactive Audio Web App (updated 20181113, created at 20181113)
 
   A simplfied version of Patatap: https://www.patatap.com/
 
